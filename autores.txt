@@ -1,2 +1,4 @@
 user: ImJuanje
 email: juanjecontact@gmail.com 
+user: bastianmgm
+email: sbastian.moreno@gmail.com
